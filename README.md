@@ -1,5 +1,18 @@
 <div class="text">
 
+<style>
+img{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    object-fit:cover;
+    border:4px solid #f5c542;
+    box-shadow:0 0 20px rgba(245,197,66,.4);
+}
+</style>
+
+<img src="MVIMG_20260702_171444.jpg" alt="Robin">
+
 Mut wird belohnt ... oder zumindest mit einem netten Gespräch. 😉
 
 <br><br>
@@ -20,14 +33,6 @@ Sprich mich an oder schreib mir auf Instagram.
 
 </div>
 
-img{
-    width:180px;
-    height:180px;
-    border-radius:50%;
-    object-fit:cover;
-    border:4px solid #f5c542;
-    box-shadow:0 0 20px rgba(245,197,66,.4);
-}
 
 <a class="button" href="https://www.instagram.com/robinri_/" target="_blank">
 📷 Zu meinem Instagram
