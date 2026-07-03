@@ -20,6 +20,8 @@ Sprich mich an oder schreib mir auf Instagram.
 
 </div>
 
+<img src="MVIMG_20260702_171444.jpg" alt="Robin">
+
 <a class="button" href="https://www.instagram.com/robinri_/" target="_blank">
 📷 Zu meinem Instagram
 </a>
